@@ -1,0 +1,6 @@
+module Pods_SerasaTest_SerasaTestTests {
+  umbrella header "Pods-SerasaTest-SerasaTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
